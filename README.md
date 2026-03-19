@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm Harsh,a self-taught builder from Rajasthan,India.
+
+I build things that solve my problems and stuff that i found genuinely cool.
+
 
 <!--
 **harshpareek-1/harshpareek-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
