@@ -10,6 +10,9 @@ when i was 15 with no experience and only using youtube as a guide. it took me 5
 - **Ai Quiz System** - Scans answer keys with ai and tests you in a more engaging and fun way.
 - **Ranking Based Focus Timers** - A timer which assigns you a base rank and increases or decreases it based on the algorithm.
 
+---
+## 📫 Get In Touch
+I am always open to collaborating on hardware projects, internship opportunities or just talking about embedded systems and electronics.
 
 <!--
 **harshpareek-1/harshpareek-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
