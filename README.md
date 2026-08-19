@@ -2,7 +2,7 @@
 I'm Harsh,a 18 year old self-taught builder from Rajasthan,India.
 
 I build things that solve my problems and stuff that i found genuinely cool.
-I think the best way to lern engineering is to make something real.
+I think the best way to learn engineering is to make something real.
 
 ## Some favorite builds
 - **My First Rc Plane** - its here because its the most ambitious one, i built it completely from scratch. 
