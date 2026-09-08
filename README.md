@@ -5,8 +5,7 @@ I build things that solve my problems and stuff that i found genuinely cool.
 I think the best way to learn engineering is to make something real.
 
 ## Some favorite builds
-- **My First Rc Plane** - its here because its the most ambitious one, i built it completely from scratch. 
-when i was 15 with no experience and only using youtube as a guide. it took me 5 crashes and about 6 months.
+- **Rc Plane** - One of my most ambitious projects and definitely one of the most fun ones. :)
 - **Ai Quiz System** - Scans answer keys with ai and tests you in a more engaging and fun way.
 - **Ranking Based Focus Timers** - A timer which assigns you a base rank and increases or decreases it based on the algorithm.
 
